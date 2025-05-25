@@ -1,18 +1,12 @@
-<!-- Header GIF -->
+<!-- Typing Animation (Fully visible, not cut) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&lines=Hi%2C+I'm+Srajan+Jain+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+AI+Enthusiast+%7C+UI%2FUX+Lover;Backend+Coder+%7C+Frontend+Designer+%7C+Open+Source+Contributor;Passionate+About+Clean+Code+and+Scalable+Solutions+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&lines=Full+Stack+Developer+%7C+AI+Enthusiast+%7C+Open+Source+Contributor;Backend+Coder+%7C+Frontend+Designer+%7C+UI%2FUX+Lover;Passionate+about+Clean+Code+and+Scalable+Apps+🚀" alt="Typing SVG" />
-</p>
-
-<!-- Title -->
-<h1 align="center">👨‍💻 Srajan Jain</h1>
+<h1 align="center">✨ Srajan Jain</h1>
 
 <p align="center">
-  🚀 Developer | Coder | UI Enthusiast <br />
+  🚀 Developer | Coder | UI Enthusiast from 🇮🇳 India <br />
   💼 Focused on Backend, Frontend & AI Integration
 </p>
 
@@ -47,7 +41,7 @@ Want to collaborate or just say hi? Feel free to reach out:
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python,react,nodejs,git,github,vscode,figma" />
 </p>
 
 ---
@@ -63,13 +57,13 @@ Want to collaborate or just say hi? Feel free to reach out:
 
 ## 🏆 Achievements & Contributions
 
-- ✅ Built multiple open-source repositories for learning.
+- ✅ Built multiple open-source repositories for learners.
 - 🔥 Active contributor on GitHub.
-- 🧑‍💼 Dedicated to clean code and scalable systems.
+- 🧠 Dedicated to clean code and scalable systems.
 
 ---
 
 ## 📜 License
 
 © 2025 **Srajan Jain** — Built with 💙 and ☕  
-_All rights reserved. Sharing encouraged with credit._  
+_All rights reserved. Sharing encouraged with credit._
