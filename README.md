@@ -1,6 +1,6 @@
 <!-- Typing Animation (Fully visible, not cut) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&lines=Hi%2C+I'm+Srajan+Jain+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+AI+Enthusiast+%7C+UI%2FUX+Lover;Backend+Coder+%7C+Frontend+Designer+%7C+Open+Source+Contributor;Passionate+About+Clean+Code+and+Scalable+Solutions+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi,+I+am+Srajan+Jain+👨‍💻;Full+Stack+Developer+|+AI+Enthusiast+|+UI/UX+Lover;Backend+Coder+|+Frontend+Designer+|+Open+Source+Contributor" alt="Typing Animation" />
 </p>
 
 <h1 align="center">✨ Srajan Jain</h1>
