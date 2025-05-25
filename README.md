@@ -27,7 +27,7 @@ Hi! I'm **Srajan Jain**, a backend as well as frontend developer based in India 
 
 Want to collaborate or just say hi? Feel free to reach out:
 
-- 📧 Email: `your-email@example.com`
+- 📧 Email: `thesrajanjain@gmail.com`
 - 💬 Message me via GitHub [Issues](https://github.com/TheSrajanJain)
 
 ---
