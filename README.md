@@ -34,3 +34,8 @@ Want to collaborate or just say hi? Feel free to reach out:
 
 ## 🧠 Tech Stack
 
+---
+
+## 📜 License
+
+© 2025 Srajan Jain. Built with 💙 and ☕
