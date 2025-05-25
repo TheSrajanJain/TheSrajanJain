@@ -11,32 +11,6 @@
 
 ---
 
-## My Main Languages
-
-<p>
-<img src="https://iconscout.com/free-3d-illustration/python-9294858_7578001"/>
-</p>
-<p>
-<img src="https://iconscout.com/free-3d-illustration/java-9294874_7578017"/>
-</p>
-<p>
-<img src="https://iconscout.com/free-3d-illustration/s-9294872_7578015"/>
-</p>
-<p>
-<img src="https://iconscout.com/free-3d-illustration/html-9294875_7578018"/>
-</p>
-<p>
-<img src="https://iconscout.com/free-3d-illustration/css-9294881_7578024"/>
-</p>
-<p>
-<img src="https://iconscout.com/free-3d-illustration/javascript-9294848_7577991"/>
-</p>
-<p>
-<img src="https://iconscout.com/free-3d-illustration/visual-studio-code-9294844_7578027"/>
-</p>
-
----
-
 ## 🛠️ Projects
 
 | Project | Description | Link |
