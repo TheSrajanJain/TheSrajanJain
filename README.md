@@ -1,41 +1,47 @@
-# 👨‍💻 Srajan Jain
+<h1 align="center">👨‍💻 Srajan Jain</h1>
 
-### 🚀 Developer | Coder | UI Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Specialist;Frontend+Designer;Coding+Enthusiast&center=true&width=440&height=45&color=00F5D4&vCenter=true&size=22" />
+</p>
 
-Hey there! I'm **Srajan Jain**, a passionate backend and frontend developer from 🇮🇳 India. I build awesome code and delightful frontend experiences. ✨
-
----
-
-## 🛠 My Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| **Java By Srajan Jain** | A repository where beginners can take help to sort out their coding problems and understand basic programming concepts. | [View on GitHub 🔗](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
-| **C Programming By Srajan Jain** | Comprehensive C programming examples and exercises for learners. | [View on GitHub 🔗](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
-| **HTML and CSS by Srajan Jain** | Projects and examples focusing on HTML and CSS for frontend development. | [View on GitHub 🔗](https://github.com/TheSrajanJain/HTML-and-CSS-by-Srajan-Jain) |
-| **Cpp Programming by Srajan Jain** | C++ programming resources and code samples for learners. | [View on GitHub 🔗](https://github.com/TheSrajanJain/Cpp-Programming-by-Srajan-Jain) |
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" />
+  <strong>Developer | Coder | UI Enthusiast</strong>
+</p>
 
 ---
 
-## 📘 About Me
+## 🚀 About Me
 
-Hi! I'm **Srajan Jain**, a backend as well as frontend developer based in India 🇮🇳. I specialize in crafting responsive code, commercial-level coding projects, and beautiful UIs that deliver great user experiences.
+```yaml
+Name: Srajan Jain
+Location: India 🇮🇳
+Role: Full-Stack Developer
+Languages: C, C++, Java, HTML, CSS, JavaScript
+Focus: Clean Code, Responsive UI, Real-World Projects
+🎯 I love building beautiful UIs, robust backend systems, and solving real-life problems through code.
 
----
+🛠️ Projects
+📁 Project	🧾 Description	🔗 Link
+Java By Srajan Jain	Beginner-friendly Java codebase & examples	View on GitHub
+C Programming By Srajan Jain	Solid C programming foundations & exercises	View on GitHub
+HTML and CSS by Srajan Jain	HTML/CSS projects for frontend development	View on GitHub
+Cpp Programming by Srajan Jain	C++ concepts & programs for learning	View on GitHub
 
-## ✉️ Contact Me
+🔧 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,github,vscode" /> </p>
+🌐 Connect with Me
+📧 Email: thesrajanjain@gmail.com
 
-Want to collaborate or just say hi? Feel free to reach out:
+💬 GitHub: Open an issue
 
-- 📧 Email: `thesrajanjain@gmail.com`
-- 💬 Message me via GitHub [Issues](https://github.com/TheSrajanJain)
+🖥️ Portfolio: Coming soon...
 
----
-
-## 🧠 Tech Stack
-
----
-
-## 📜 License
-
-© 2025 Srajan Jain. Built with 💙 and ☕
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TheSrajanJain&show_icons=true&theme=react&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSrajanJain&theme=react&hide_border=true" width="48%" /> </p>
+📈 Top Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSrajanJain&layout=compact&theme=react&hide_border=true" width="40%" /> </p>
+✨ Fun Animation
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" /> </p>
+📜 License
+<p align="center"> © 2025 Srajan Jain. Built with 💙 and ☕ </p> ```
