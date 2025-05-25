@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.webstackacademy.com/wp-content/uploads/2023/02/WSA-Online-Internship-2.jpg" alt="Banner" width="100%" />
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">✨ Srajan Jain</h1>
