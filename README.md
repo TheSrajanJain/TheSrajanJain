@@ -1,8 +1,15 @@
 # 👨‍💻 Srajan Jain
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi,+I+am+Srajan+Jain+👨‍💻;Full+Stack+Developer+|+AI+Enthusiast+|+UI/UX+Lover;Backend+Coder+|+Frontend+Designer+|+Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvWZ/giphy.gif" alt="Typing Animation" width="600" />
 </p>
+
+---
+
+### 🚀 Developer | Coder | UI Enthusiast
+
+Hey there! I'm **Srajan Jain**, a passionate backend and frontend developer from 🇮🇳 India.  
+I build awesome code and delightful frontend experiences. ✨
 
 ---
 
