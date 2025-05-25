@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Backend+%7C+Frontend+%7C+AI+Developer;Always+learning+something+new!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Backend+%7C+Frontend+%7C+AI+Developer;Always+learning+something+new!+💡" alt="Typing Animation" />
 </p>
 
 ---
