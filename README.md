@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">✨ Srajan Jain</h1>
 
 <p align="center">
@@ -12,6 +7,32 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;I'm+Srajan+Jain+💻+Developer+from+India;Backend+%7C+Frontend+%7C+AI+Integration+Enthusiast;Building+Scalable+and+Smart+Projects+Every+Day" alt="Typing Animation" />
+</p>
+
+---
+
+## My Main Languages
+
+<p>
+<img src="https://iconscout.com/free-3d-illustration/python-9294858_7578001"/>
+</p>
+<p>
+<img src="https://iconscout.com/free-3d-illustration/java-9294874_7578017"/>
+</p>
+<p>
+<img src="https://iconscout.com/free-3d-illustration/s-9294872_7578015"/>
+</p>
+<p>
+<img src="https://iconscout.com/free-3d-illustration/html-9294875_7578018"/>
+</p>
+<p>
+<img src="https://iconscout.com/free-3d-illustration/css-9294881_7578024"/>
+</p>
+<p>
+<img src="https://iconscout.com/free-3d-illustration/javascript-9294848_7577991"/>
+</p>
+<p>
+<img src="https://iconscout.com/free-3d-illustration/visual-studio-code-9294844_7578027"/>
 </p>
 
 ---
