@@ -1,40 +1,40 @@
-<!-- Typing Animation (Fully visible, not cut) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://www.webstackacademy.com/wp-content/uploads/2023/02/WSA-Online-Internship-2.jpg" alt="Typing Animation">
+  <img src="https://www.webstackacademy.com/wp-content/uploads/2023/02/WSA-Online-Internship-2.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">✨ Srajan Jain</h1>
 
 <p align="center">
-  🚀 Developer | Coder | UI Enthusiast from 🇮🇳 India <br />
+  🚀 Developer | Coder | UI Enthusiast from 🇮🇳 India <br/>
   💼 Focused on Backend, Frontend & AI Integration
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Backend+%7C+Frontend+%7C+AI+Developer;Always+learning+something+new!+💡" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠 My Projects
+## 🛠️ Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Java By Srajan Jain** | A repository where beginners can sort out their coding problems and understand basic programming concepts. | [🔗 View on GitHub](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
-| **C Programming By Srajan Jain** | Comprehensive C programming examples and exercises for learners. | [🔗 View on GitHub](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
-| **HTML and CSS by Srajan Jain** | Projects and examples focusing on HTML and CSS for frontend development. | [🔗 View on GitHub](https://github.com/TheSrajanJain/HTML-and-CSS-by-Srajan-Jain) |
-| **Cpp Programming by Srajan Jain** | C++ programming resources and code samples for learners. | [🔗 View on GitHub](https://github.com/TheSrajanJain/Cpp-Programming-by-Srajan-Jain) |
+| 💻 **Java By Srajan Jain** | Beginner-friendly Java programming concepts and problems. | [🔗 GitHub](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
+| 💡 **C Programming By Srajan Jain** | Hands-on C programming examples and practical exercises. | [🔗 GitHub](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
+| 🎨 **HTML and CSS by Srajan Jain** | Frontend UI projects with HTML and CSS. | [🔗 GitHub](https://github.com/TheSrajanJain/HTML-and-CSS-by-Srajan-Jain) |
+| 🚀 **Cpp Programming by Srajan Jain** | C++ codes and OOPs examples for learners. | [🔗 GitHub](https://github.com/TheSrajanJain/Cpp-Programming-by-Srajan-Jain) |
 
 ---
 
 ## 📘 About Me
 
-Hi! I'm **Srajan Jain**, a backend as well as frontend developer based in 🇮🇳 India. I specialize in crafting responsive code, commercial-level coding projects, and beautiful UIs that deliver great user experiences.
+Hi! I'm **Srajan Jain**, a passionate developer from 🇮🇳 India. I love building responsive UIs, scalable systems, and smart AI integrations. I enjoy turning ideas into reality using code and am always curious to learn new things.
 
----
-
-## ✉️ Contact Me
-
-Want to collaborate or just say hi? Feel free to reach out:
-
-- 📧 **Email**: [thesrajanjain@gmail.com](mailto:thesrajanjain@gmail.com)  
-- 🐙 **GitHub Issues**: [Message Me](https://github.com/TheSrajanJain)
+- 🔭 Currently working on: AI Assistant "Junior"
+- 🌱 Learning: Java, Advanced Python, and Web APIs
+- 💬 Ask me about: C, C++, Java, HTML, CSS, AI, and logic building
+- 📌 Fun fact: I love solving real-world problems with code!
 
 ---
 
@@ -51,19 +51,31 @@ Want to collaborate or just say hi? Feel free to reach out:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheSrajanJain&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TheSrajanJain&theme=radical" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSrajanJain&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 🏆 Achievements & Contributions
+## 🏆 Achievements
 
-- ✅ Built multiple open-source repositories for learners.
-- 🔥 Active contributor on GitHub.
-- 🧠 Dedicated to clean code and scalable systems.
+- ✅ Created open-source content for learners across multiple languages.
+- 🔥 Actively contribute to the GitHub community.
+- 💡 Passionate about clean code and beautiful UI/UX.
+- 🧠 Building a complete AI-based voice assistant in Python.
+
+---
+
+## ✉️ Contact Me
+
+Feel free to reach out for collaborations or questions:
+
+- 📧 [thesrajanjain@gmail.com](mailto:thesrajanjain@gmail.com)
+- 🐙 [GitHub Issues](https://github.com/TheSrajanJain)
 
 ---
 
 ## 📜 License
 
 © 2025 **Srajan Jain** — Built with 💙 and ☕  
-_All rights reserved. Sharing encouraged with credit._
+Sharing encouraged with credit. All rights reserved.
