@@ -9,12 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Srajan+Jain+%F0%9F%92%BB+Developer+from+India;Backend+%7C+Frontend+%7C+AI+Integration+Enthusiast;Building+Smarter+Projects+Every+Day+%F0%9F%92%AA" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70" />&nbsp;
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="70" />&nbsp;
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70" />
-</p>
-
 ---
 
 ## 🛠️ Featured Projects
