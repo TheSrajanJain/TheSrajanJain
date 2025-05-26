@@ -1,40 +1,38 @@
-<h1 align="center">✨ Srajan Jain</h1>
+<h1 align="center">🚀 Srajan Jain | Developer | AI Enthusiast</h1>
 
 <p align="center">
-  🚀 Developer | Coder | UI Enthusiast from 🇮🇳 India <br/>
-  💼 Backend • Frontend • AI Integration Aficionado
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Srajan+Jain+%F0%9F%92%BB+Developer+from+India;Backend+%7C+Frontend+%7C+AI+Integration+Enthusiast;Building+Smarter+Projects+Every+Day+%F0%9F%92%AA" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Innovating+with+Code+and+Creativity;Building+Scalable+Projects+in+AI+and+Web+Development" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🛠️ Featured Projects
+## 🔥 About Me
+🌟 **Who am I?**  
+Hi! I'm **Srajan Jain**, a passionate coder from 🇮🇳 who loves to develop smart and scalable solutions. My expertise spans across backend, frontend, and AI integration.
 
-| 🚀 Project | 💡 Description | 🔗 Link |
-|-----------|----------------|--------|
-| **Java By Srajan Jain** | Beginner-friendly Java programming concepts and problem-solving. | [GitHub Repo](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
-| **C Programming By Srajan Jain** | Hands-on C programming with real examples and logic building. | [GitHub Repo](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
-| **HTML and CSS by Srajan Jain** | Aesthetic frontend designs using HTML and CSS. | [GitHub Repo](https://github.com/TheSrajanJain/HTML-and-CSS-by-Srajan-Jain) |
-| **Cpp Programming by Srajan Jain** | C++ and OOP-focused codes for beginners and intermediates. | [GitHub Repo](https://github.com/TheSrajanJain/Cpp-Programming-by-Srajan-Jain) |
+💡 **Things I enjoy:**  
+- **Coding:** C • C++ • Java • HTML/CSS • Python  
+- **AI Development:** Working on AI-powered assistants  
+- **Optimized UI/UX:** Making tech look and feel great
 
----
-
-## 📘 About Me
-
-Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate about building things that matter—be it web apps, AI tools, or backend systems. I love writing clean code and making life easier through logic and creativity.
-
-- 🔭 **Currently Working On**: Personal AI Assistant `Junior`
-- 🌱 **Learning**: Java • Advanced Python • API Integration
-- 💬 **Ask Me About**: C • C++ • Java • HTML/CSS • AI Concepts
-- 💡 **Fun Fact**: I believe every bug teaches something new. Debugging is learning in disguise!
+🎯 **Current Focus:** Learning Java, Python, and API Integration.
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Featured Projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFC300&center=true&vCenter=true&width=1000&lines=Explore+My+Top+Projects+Below!;Developing+With+Efficiency;Contributing+to+Open-Source+Community" alt="Typing Animation" />
+</p>
 
+| 🛠️ Project | 📜 Description | 🔗 Link |
+|------------|--------------|--------|
+| **Java By Srajan Jain** | Java programming concepts and problem-solving. | [Repo](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
+| **C Programming By Srajan Jain** | Logic-based C programming tutorials. | [Repo](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
+| **AI Assistant (Junior)** | Personal AI-powered assistant project. | 🚧 _Work in progress_ |
+
+---
+
+## 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python,react,nodejs,git,github,vscode,figma,linux" />
 </p>
@@ -42,45 +40,23 @@ Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSrajanJain&show_icons=true&theme=radical&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheSrajanJain&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSrajanJain&show_icons=true&theme=highcontrast&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheSrajanJain&theme=highcontrast&hide_border=false" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSrajanJain&layout=compact&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSrajanJain&layout=compact&theme=highcontrast&hide_border=false" width="48%" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
-- ✅ Created open-source content for developers & learners.
-- ✨ Contributor to real-world scalable projects.
-- 🔥 Active part of the GitHub coding community.
-- 🤖 Building a fully AI-powered voice assistant in Python.
-
----
-
-## 🎯 Goals for 2025
-
-- 🚀 Launch "Junior" AI Assistant v1.0  
-- 🎓 Master Data Structures, OOP, and AI Models  
-- 💻 Contribute to impactful open-source projects  
-- 🧠 Complete 40+ C++ Projects & Host Tutorials  
-
----
-
-## 📫 Connect With Me
-
+## 💬 Connect with Me
 <p align="center">
   <a href="mailto:thesrajanjain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/TheSrajanJain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/TheSrajanJain?tab=repositories"><img src="https://img.shields.io/badge/Explore%20More%20Projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 📜 License
-
-© 2025 **Srajan Jain** — Built with 💙, ☕ and infinite curiosity.  
-Sharing encouraged with credit. All rights reserved.
+© 2025 **Srajan Jain** — Sharing encouraged with credit.  
+Built with ❤️, ☕, and infinite curiosity.
