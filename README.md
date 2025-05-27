@@ -117,8 +117,7 @@ Here are a few resources that helped me on my journey:
 
 - 🌍 **Portfolio (Coming Soon)**: [`srajanjain.dev`](https://srajanjain.dev)
 - 📺 **YouTube (Tutorials & Devlogs)**: [Coming Soon]
-- 📸 **Instagram**: [`@codewithsrajan`](https://instagram.com/codewithsrajan)
-- 💬 **Blog**: [`dev.to/thesrajanjain`](https://dev.to/thesrajanjain)
+- 📸 **Instagram**: [`@The_SrajanJain`](https://www.instagram.com/the_srajanjain/)
 
 ---
 
