@@ -19,7 +19,6 @@
 />
 </p>
 
-
 ---
 
 ## 🛠️ Featured Projects
@@ -52,6 +51,39 @@ Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate 
 
 ---
 
+## 🔧 Tools & IDEs I Use
+
+- 🖥️ **VS Code**, IntelliJ IDEA, Turbo C++
+- 🧪 Postman, GitHub CLI, Replit
+- 🎨 Figma, Canva (for UI mockups)
+- 🔧 Terminal, Git Bash, Linux (Ubuntu)
+
+---
+
+## 📚 Recommended Resources
+
+Here are a few resources that helped me on my journey:
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [OpenAI Docs](https://platform.openai.com/docs)
+- [Java Programming by Srajan Jain](https://github.com/TheSrajanJain/Java-By-Srajan-Jain)
+- [w3schools](https://www.w3schools.com/)
+- [GitHub Docs](https://docs.github.com/)
+
+---
+
+## 📅 My Weekly Coding Routine
+
+- 🧠 **Monday – Friday**:  
+  `3-4 hours` – Practice + Projects + Debugging  
+- 🔬 **Saturday**:  
+  `Project Development` + Learning New Tools  
+- 🌱 **Sunday**:  
+  Code Review + Open-source contribution + Learning Recap
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -78,6 +110,36 @@ Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate 
 - 🎓 Master Data Structures, OOP, and AI Models  
 - 💻 Contribute to impactful open-source projects  
 - 🧠 Complete 40+ C++ Projects & Host Tutorials  
+
+---
+
+## 🌐 Web Presence
+
+- 🌍 **Portfolio (Coming Soon)**: [`srajanjain.dev`](https://srajanjain.dev)
+- 📺 **YouTube (Tutorials & Devlogs)**: [Coming Soon]
+- 📸 **Instagram**: [`@codewithsrajan`](https://instagram.com/codewithsrajan)
+- 💬 **Blog**: [`dev.to/thesrajanjain`](https://dev.to/thesrajanjain)
+
+---
+
+## 🧠 My Philosophy
+
+> "Code is not just about syntax—it's a way of thinking, a way of solving, and a way of building something meaningful."
+
+I believe in:
+- Progress over perfection 💪  
+- Building in public 🌍  
+- Learning every day 📖  
+
+---
+
+## 💬 Testimonials (Optional Placeholder)
+
+> “Srajan is a passionate coder and a fast learner. His AI assistant project is a testament to his dedication.”  
+> — *Mentor / Teacher / Collaborator*
+
+> “He has helped me debug and refactor my code countless times. A real team player!”  
+> — *Peer / Student*
 
 ---
 
