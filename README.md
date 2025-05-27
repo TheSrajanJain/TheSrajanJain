@@ -6,20 +6,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Srajan+Jain+%F0%9F%92%BB+Developer+from+India;Backend+%7C+Frontend+%7C+AI+Integration+Enthusiast;Building+Smarter+Projects+Every+Day+%F0%9F%92%AA" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Srajan+Jain+%F0%9F%92%BB+Developer+from+India;Backend+%7C+Frontend+%7C+AI+Integration+Enthusiast;Building+Smarter+Projects+Every+Day+%F0%9F%92%AA"
+    alt="Typing Animation"
+/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Let's+Build+Something+Amazing+Together!;Join+Me+on+This+Journey+of+Innovation!" alt="Typing Animation" style="animation: fadein 1s ease 6s forwards; opacity: 0;" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&startDelay=7000&lines=Let's+Build+Something+Amazing+Together!;Join+Me+on+This+Journey+of+Innovation!"
+    alt="Delayed Typing Animation"
+/>
 </p>
-
-<style>
-@keyframes fadein {
-  to {
-    opacity: 1;
-  }
-}
-</style>
 
 
 ---
