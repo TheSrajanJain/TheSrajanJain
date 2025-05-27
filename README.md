@@ -10,8 +10,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Let's+Build+Something+Amazing+Together!;Join+Me+on+This+Journey+of+Innovation!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Let's+Build+Something+Amazing+Together!;Join+Me+on+This+Journey+of+Innovation!" alt="Typing Animation" style="animation: fadein 1s ease 6s forwards; opacity: 0;" />
 </p>
+
+<style>
+@keyframes fadein {
+  to {
+    opacity: 1;
+  }
+}
+</style>
+
 
 ---
 
