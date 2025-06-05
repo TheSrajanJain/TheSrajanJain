@@ -115,7 +115,7 @@ Here are a few resources that helped me on my journey:
 
 ## 🌐 Web Presence
 
-- 🌍 **Portfolio (Coming Soon)**: [`@Srajan's Portfolio`](thesrajanjain.github.io/Portfolio/)
+- 🌍 **Portfolio (Coming Soon)**: [`@Srajan's Portfolio`](https://thesrajanjain.github.io/Portfolio/)
 - 📺 **YouTube (Tutorials & Devlogs)**: [Coming Soon]
 - 📸 **Instagram**: [`@The_SrajanJain`](https://www.instagram.com/the_srajanjain/)
 
