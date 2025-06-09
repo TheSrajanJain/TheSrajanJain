@@ -95,6 +95,12 @@ Here are a few resources that helped me on my journey:
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheSrajanJain&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
 ## 🏆 Achievements
 
 - ✅ Created open-source content for developers & learners.
@@ -116,7 +122,7 @@ Here are a few resources that helped me on my journey:
 ## 🌐 Web Presence
 
 - 🌍 **Portfolio (Coming Soon)**: [`@Srajan's Portfolio`](https://thesrajanjain.github.io/Portfolio/)
-- 📺 **YouTube (Tutorials & Devlogs)**: [Coming Soon]
+- 📺 **YouTube (Tutorials & Devlogs)**: <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge" /></a>
 - 📸 **Instagram**: [`@The_SrajanJain`](https://www.instagram.com/the_srajanjain/)
 
 ---
