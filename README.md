@@ -163,6 +163,8 @@ I believe in:
 © 2025 **Srajan Jain** — Built with 💙, ☕ and infinite curiosity.  
 Sharing encouraged with credit. All rights reserved.
 
+---
+
 <p align="center">
   <img src="https://github.com/TheSrajanJain/TheSrajanJain/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
