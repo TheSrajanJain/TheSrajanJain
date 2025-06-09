@@ -121,8 +121,8 @@ Here are a few resources that helped me on my journey:
 
 ## 🌐 Web Presence
 
-- 🌍 **Portfolio (Coming Soon)**: [`@Srajan's Portfolio`](https://thesrajanjain.github.io/Portfolio/)
-- 📺 **YouTube (Tutorials & Devlogs)**: <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge" /></a>
+- 🌍 **Portfolio**: [`@My_Portfolio`](https://thesrajanjain.github.io/Portfolio/)
+- 📺 **YouTube (Tutorials & Devlogs)**: [Coming Soon]
 - 📸 **Instagram**: [`@The_SrajanJain`](https://www.instagram.com/the_srajanjain/)
 
 ---
