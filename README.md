@@ -144,11 +144,19 @@ Here are a few resources that helped me on my journey:
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:thesrajanjain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/TheSrajanJain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
+## 📫 Connect With Me 
+<p align="center"> 
+  <a href="mailto:thesrajanjain@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+  <a href="https://github.com/TheSrajanJain">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a> 
+  <a href="https://github.com/TheSrajanJain?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20More%20Projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p> 
 ---
+## 📜 License © 2025 **Srajan Jain** — Built with 💙, ☕ and infinite curiosity. Sharing encouraged with credit. All rights reserved. 
+--- 
+<p align="center"> <img src="https://github.com/TheSrajanJain/TheSrajanJain/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
