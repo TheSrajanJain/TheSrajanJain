@@ -39,20 +39,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=140&section=footer&text=Let's%20Get%20Creative!&fontSize=30&fontAlignY=30&animation=twinkling" />
-</p>
-
----
-
-## 🌟 My Dev Personality – Visual Style
-
-<div align="center">
-  <img src="https://github.com/TheSrajanJain/TheSrajanJain/assets/your-animation-id/dev-ui-banner.gif" width="90%" style="border-radius: 20px;" alt="Dev Showcase" />
-</div>
-
----
-
 ## 🎨 Tech + Creative Stack (Glowing Cards)
 
 <p align="center">
