@@ -39,55 +39,23 @@
 
 ---
 
-## 📘 About Me
-
-Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate about building things that matter—be it web apps, AI tools, or backend systems. I love writing clean code and making life easier through logic and creativity.
-
-- 🔭 **Currently Working On**: Personal AI Assistant `Junior`
-- 🌱 **Learning**: Java • Advanced Python • API Integration
-- 💬 **Ask Me About**: C • C++ • Java • HTML/CSS • AI Concepts
-- 💡 **Fun Fact**: I believe every bug teaches something new. Debugging is learning in disguise!
-
----
-
-## ⚙️ Tech Stack
+## 🎉 Animation Showcase 🚀
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python,react,nodejs,git,github,vscode,figma,linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Building+Projects+That+Matter!;Join+Me+on+My+Coding+Journey!" alt="Typing Animation"/>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Code Animation"/>
+</p>
 
-## 🔧 Tools & IDEs I Use
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation"/>
+</p>
 
-- 🖥️ **VS Code**, IntelliJ IDEA, Turbo C++
-- 🧪 Postman, GitHub CLI, Replit
-- 🎨 Figma, Canva (for UI mockups)
-- 🔧 Terminal, Git Bash, Linux (Ubuntu)
-
----
-
-## 📚 Recommended Resources
-
-Here are a few resources that helped me on my journey:
-
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [OpenAI Docs](https://platform.openai.com/docs)
-- [Java Programming by Srajan Jain](https://github.com/TheSrajanJain/Java-By-Srajan-Jain)
-- [w3schools](https://www.w3schools.com/)
-- [GitHub Docs](https://docs.github.com/)
-
----
-
-## 📅 My Weekly Coding Routine
-
-- 🧠 **Monday – Friday**:  
-  `3-4 hours` – Practice + Projects + Debugging  
-- 🔬 **Saturday**:  
-  `Project Development` + Learning New Tools  
-- 🌱 **Sunday**:  
-  Code Review + Open-source contribution + Learning Recap
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheSrajanJain&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
@@ -101,6 +69,7 @@ Here are a few resources that helped me on my journey:
 </p>
 
 ---
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheSrajanJain&theme=radical&no-frame=true&margin-w=10" />
