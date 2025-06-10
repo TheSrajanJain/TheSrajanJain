@@ -190,9 +190,3 @@ Sharing encouraged with credit. All rights reserved.
 <p align="center"> <img src="https://github.com/TheSrajanJain/TheSrajanJain/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FFD700&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=30&animation=twinkling" />
-</p>
-
----
