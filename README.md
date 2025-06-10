@@ -39,6 +39,64 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=140&section=footer&text=Let's%20Get%20Creative!&fontSize=30&fontAlignY=30&animation=twinkling" />
+</p>
+
+---
+
+## 🌟 My Dev Personality – Visual Style
+
+<div align="center">
+  <img src="https://github.com/TheSrajanJain/TheSrajanJain/assets/your-animation-id/dev-ui-banner.gif" width="90%" style="border-radius: 20px;" alt="Dev Showcase" />
+</div>
+
+---
+
+## 🎨 Tech + Creative Stack (Glowing Cards)
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Tools&border=true&icons=html,css,js,cpp,java,python,nodejs,react,git,linux,figma,vscode&theme=neon" />
+</p>
+
+---
+
+## 🔭 Current Mission: Building Junior AI
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSrajanJain&theme=react-dark&area=true&custom_title=My%20Activity%20Graph" alt="Activity Graph" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Crafting+Junior+%F0%9F%A4%96+–+My+AI+Assistant;Integrating+Voice,+Vision,+and+Brains;A+step+closer+to+Iron+Man's+Jarvis!" />
+</p>
+
+---
+
+## ✨ Dev Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="300" />
+</p>
+
+---
+
+## 🌌 Let's Connect Like Creators
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=I'm+Srajan+Jain+%F0%9F%92%BB+Creating+Smarter+Code+Daily;Let's+Build+the+Future+Together+%F0%9F%9A%80" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FFD700&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=30&animation=twinkling" />
+</p>
+
+---
+
 ## 📘 About Me
 
 Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate about building things that matter—be it web apps, AI tools, or backend systems. I love writing clean code and making life easier through logic and creativity.
