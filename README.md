@@ -39,14 +39,6 @@
 
 ---
 
-## 🎨 Tech + Creative Stack (Glowing Cards)
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Tools&border=true&icons=html,css,js,cpp,java,python,nodejs,react,git,linux,figma,vscode&theme=neon" />
-</p>
-
----
-
 ## 🔭 Current Mission: Building Junior AI
 
 <div align="center">
@@ -65,20 +57,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="300" />
-</p>
-
----
-
-## 🌌 Let's Connect Like Creators
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=I'm+Srajan+Jain+%F0%9F%92%BB+Creating+Smarter+Code+Daily;Let's+Build+the+Future+Together+%F0%9F%9A%80" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FFD700&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=30&animation=twinkling" />
 </p>
 
 ---
@@ -210,3 +188,11 @@ Sharing encouraged with credit. All rights reserved.
 --- 
 
 <p align="center"> <img src="https://github.com/TheSrajanJain/TheSrajanJain/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FFD700&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=30&animation=twinkling" />
+</p>
+
+---
