@@ -155,8 +155,14 @@ Here are a few resources that helped me on my journey:
   <a href="https://github.com/TheSrajanJain?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20More%20Projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p> 
+</p>
+
 ---
-## 📜 License © 2025 **Srajan Jain** — Built with 💙, ☕ and infinite curiosity. Sharing encouraged with credit. All rights reserved. 
+
+## 📜 License © 2025 **Srajan Jain** — 
+Built with 💙, ☕ and infinite curiosity. 
+Sharing encouraged with credit. All rights reserved. 
+
 --- 
+
 <p align="center"> <img src="https://github.com/TheSrajanJain/TheSrajanJain/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
