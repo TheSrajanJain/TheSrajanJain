@@ -51,16 +51,6 @@
 
 ---
 
-## ✨ Dev Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="300" />
-</p>
-
----
-
 ## 📘 About Me
 
 Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate about building things that matter—be it web apps, AI tools, or backend systems. I love writing clean code and making life easier through logic and creativity.
