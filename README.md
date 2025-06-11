@@ -1,28 +1,16 @@
-<h1 align="center">✨ Srajan Jain</h1>
+<h1 align="center">✨ Hi, I'm Srajan Jain</h1>
 
 <p align="center">
-  🚀 Developer | Coder | UI Enthusiast from 🇮🇳 India <br/>
-  💼 Backend • Frontend • AI Integration Aficionado
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Srajan+Jain+%F0%9F%92%BB+Developer+from+India;Backend+%7C+Frontend+%7C+AI+Integration+Enthusiast;Building+Smarter+Projects+Every+Day+%F0%9F%92%AA"
-    alt="Typing Animation"
-/>
+  🚀 Developer | 💻 Coder | 🎨 UI & 🤖 AI Enthusiast from 🇮🇳 India <br/>
+  🔧 Backend • Frontend • AI Integrations • Open Source
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices;DSA+%7C+Problem+Solver;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Srajan+Jain+%F0%9F%92%BB;Backend+%7C+Frontend+%7C+AI+Integration+Enthusiast;Building+Smarter+Projects+Every+Day+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Code Animation"/>
-</p>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&startDelay=7000&lines=Let's+Build+Something+Amazing+Together!;Join+Me+on+This+Journey+of+Innovation!"
-    alt="Delayed Typing Animation"
-/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Code GIF">
 </p>
 
 ---
@@ -31,30 +19,30 @@
 
 | 🚀 Project | 💡 Description | 🔗 Link |
 |-----------|----------------|--------|
-| **Java By Srajan Jain** | Beginner-friendly Java programming concepts and problem-solving. | [GitHub Repo](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
-| **C Programming By Srajan Jain** | Hands-on C programming with real examples and logic building. | [GitHub Repo](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
-| **HTML and CSS by Srajan Jain** | Aesthetic frontend designs using HTML and CSS. | [GitHub Repo](https://github.com/TheSrajanJain/HTML-and-CSS-by-Srajan-Jain) |
-| **Cpp Programming by Srajan Jain** | C++ and OOP-focused codes for beginners and intermediates. | [GitHub Repo](https://github.com/TheSrajanJain/Cpp-Programming-by-Srajan-Jain) |
-| **MySQL Database** | This Repo is provided with SQL notes, worksheets and cheatsheets! | [GitHub Repo](https://github.com/TheSrajanJain/MySQL-Database) |
+| **Java By Srajan Jain** | Beginner-friendly Java programming and problem-solving. | [GitHub Repo](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
+| **C Programming By Srajan Jain** | Real examples to strengthen C programming logic. | [GitHub Repo](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
+| **HTML and CSS by Srajan Jain** | Aesthetic and responsive designs using HTML and CSS. | [GitHub Repo](https://github.com/TheSrajanJain/HTML-and-CSS-by-Srajan-Jain) |
+| **Cpp Programming by Srajan Jain** | Clean and logical C++ projects (OOPs included). | [GitHub Repo](https://github.com/TheSrajanJain/Cpp-Programming-by-Srajan-Jain) |
+| **MySQL Database** | Notes, worksheets, and cheat sheets for SQL learners. | [GitHub Repo](https://github.com/TheSrajanJain/MySQL-Database) |
 
 ---
 
 ## 🔭 Current Mission: Building Junior AI
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSrajanJain&theme=react-dark&area=true&custom_title=My%20Activity%20Graph" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSrajanJain&theme=react-dark&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+</p>
 
 ---
 
 ## 📘 About Me
 
-Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate about building things that matter—be it web apps, AI tools, or backend systems. I love writing clean code and making life easier through logic and creativity.
+Hi there! I'm **Srajan Jain**, a passionate and self-driven developer from 🇮🇳. I love building tools that solve problems and simplify lives. Whether it's AI, web, or systems—I dive deep and build with logic, creativity, and love. ❤️
 
-- 🔭 **Currently Working On**: Personal AI Assistant `Junior`
-- 🌱 **Learning**: Java • Advanced Python • API Integration
-- 💬 **Ask Me About**: C • C++ • Java • HTML/CSS • AI Concepts
-- 💡 **Fun Fact**: I believe every bug teaches something new. Debugging is learning in disguise!
+- 🔭 Currently Working On: Personal AI Assistant `Junior`
+- 🌱 Learning: Java • Advanced Python • API Integration
+- 💬 Ask Me About: C • C++ • Java • Web Dev • AI Concepts
+- 💡 Fun Fact: Every bug is a disguised mentor!
 
 ---
 
@@ -66,36 +54,31 @@ Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate 
 
 ---
 
-## 🔧 Tools & IDEs I Use
+## 🧰 Tools & IDEs I Use
 
 - 🖥️ **VS Code**, IntelliJ IDEA, Turbo C++
 - 🧪 Postman, GitHub CLI, Replit
 - 🎨 Figma, Canva (for UI mockups)
-- 🔧 Terminal, Git Bash, Linux (Ubuntu)
+- 🔧 Terminal, Git Bash, Ubuntu Linux
 
 ---
 
 ## 📚 Recommended Resources
 
-Here are a few resources that helped me on my journey:
-
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [OpenAI Docs](https://platform.openai.com/docs)
-- [Java Programming by Srajan Jain](https://github.com/TheSrajanJain/Java-By-Srajan-Jain)
 - [w3schools](https://www.w3schools.com/)
+- [Java Repo by Srajan Jain](https://github.com/TheSrajanJain/Java-By-Srajan-Jain)
 - [GitHub Docs](https://docs.github.com/)
 
 ---
 
 ## 📅 My Weekly Coding Routine
 
-- 🧠 **Monday – Friday**:  
-  `3-4 hours` – Practice + Projects + Debugging  
-- 🔬 **Saturday**:  
-  `Project Development` + Learning New Tools  
-- 🌱 **Sunday**:  
-  Code Review + Open-source contribution + Learning Recap
+- 🧠 **Mon–Fri**: 3–4 hrs – Practice, Projects, Debugging  
+- 🔬 **Saturday**: Build Projects + New Tools  
+- 🌱 **Sunday**: Code Review + Open-source + Learning Recap
 
 ---
 
@@ -110,49 +93,44 @@ Here are a few resources that helped me on my journey:
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheSrajanJain&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 🏆 Achievements
 
-- ✅ Created open-source content for developers & learners.
-- ✨ Contributor to real-world scalable projects.
-- 🔥 Active part of the GitHub coding community.
-- 🤖 Building a fully AI-powered voice assistant in Python.
+- ✅ Created open-source resources for beginners and peers
+- ✨ Contributor to real-world, scalable dev projects
+- 🔥 Active community member on GitHub
+- 🤖 Built and currently developing a full-fledged Python AI Assistant
 
 ---
 
 ## 🎯 Goals for 2025
 
-- 🚀 Launch "Junior" AI Assistant v1.0  
-- 🎓 Master Data Structures, OOP, and AI Models  
-- 💻 Contribute to impactful open-source projects  
-- 🧠 Complete 40+ C++ Projects & Host Tutorials  
+- 🚀 Launch `Junior` AI Assistant v1.0  
+- 🧠 Master Data Structures, OOP, and AI models  
+- 💻 Contribute to high-impact open-source projects  
+- 📚 Complete 40+ C++ Projects & Host Public Repos  
 
 ---
 
 ## 🌐 Web Presence
 
-- 🌍 **Portfolio**: [`@My_Portfolio`](https://thesrajanjain.github.io/Portfolio/)
-- 📺 **YouTube (Tutorials & Devlogs)**: [Coming Soon]
-- 📸 **Instagram**: [`@The_SrajanJain`](https://www.instagram.com/the_srajanjain/)
+- 🌍 **Portfolio**: [@My_Portfolio](https://thesrajanjain.github.io/Portfolio/)
+- 📸 **Instagram**: [@The_SrajanJain](https://www.instagram.com/the_srajanjain/)
+- 📺 **YouTube**: Coming Soon…
 
 ---
 
-## 💬 Testimonials (Optional Placeholder)
+## 💬 Testimonials
 
-> “Srajan is a passionate coder and a fast learner. His AI assistant project is a testament to his dedication.”  
-> — *Mentor / Teacher / Collaborator*
+> “Srajan is a passionate coder and quick learner. His AI Assistant is a great initiative.”  
+> — *Mentor / Teacher*
 
-> “He has helped me debug and refactor my code countless times. A real team player!”  
-> — *Peer / Student*
+> “He’s helped me debug code multiple times—definitely someone you want on your team.”  
+> — *Peer / Collaborator*
 
 ---
 
-## 📫 Connect With Me 
+## 📫 Connect With Me
+
 <p align="center"> 
   <a href="mailto:thesrajanjain@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -167,12 +145,13 @@ Here are a few resources that helped me on my journey:
 
 ---
 
-## 📜 License © 2025 **Srajan Jain** — 
-Built with 💙, ☕ and infinite curiosity. 
-Sharing encouraged with credit. All rights reserved. 
+## 📜 License
 
---- 
-
-<p align="center"> <img src="https://github.com/TheSrajanJain/TheSrajanJain/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+© 2025 **Srajan Jain** — Built with 💙, ☕, and infinite curiosity.  
+Sharing is caring — use with credits. All rights reserved.
 
 ---
+
+<p align="center">
+  <img src="https://github.com/TheSrajanJain/TheSrajanJain/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
