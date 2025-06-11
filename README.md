@@ -45,10 +45,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSrajanJain&theme=react-dark&area=true&custom_title=My%20Activity%20Graph" alt="Activity Graph" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Crafting+Junior+%F0%9F%A4%96+–+My+AI+Assistant;Integrating+Voice,+Vision,+and+Brains;A+step+closer+to+Iron+Man's+Jarvis!" />
-</p>
-
 ---
 
 ## 📘 About Me
