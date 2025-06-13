@@ -60,9 +60,18 @@ Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate 
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python,react,nodejs,git,github,vscode,figma,linux" />
-</p>
+| Category              | Tools & Technologies                                                                                                                                         |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🖼️ **Frontend**        | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" height="30" />                                                        |
+| 🧠 **Backend**         | <img src="https://skillicons.dev/icons?i=java,python,nodejs,spring,django,express" height="30" />                                                           |
+| 🧰 **Frameworks**      | <img src="https://skillicons.dev/icons?i=spring,flask,nextjs,redux" height="30" />                                                                          |
+| 🗄️ **Databases**       | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" height="30" />                                                           |
+| 🚀 **DevOps & Cloud**  | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify" height="30" />                                                               |
+| 🧪 **Testing**         | <img src="https://skillicons.dev/icons?i=jest,pytest" height="30" />                                                                                         |
+| 🧑‍💻 **IDEs & Editors**  | <img src="https://skillicons.dev/icons?i=vscode,idea,replit,codepen" height="30" />                                                                         |
+| 🧪 **Dev Tools**       | <img src="https://skillicons.dev/icons?i=git,github,postman,linux,terminal" height="30" />                                                                  |
+| 🎨 **Design / UI**     | <img src="https://skillicons.dev/icons?i=figma,canva" height="30" />                                                                                         |
+| 🧠 **Currently Exploring** | <img src="https://skillicons.dev/icons?i=ts,graphql,threejs,grafana" height="30" />                                                                    |
 
 ---
 
