@@ -39,7 +39,15 @@
 
 ---
 
-## 🔭 Current Mission: Building Junior AI
+## 📁 Works
+
+| 🛠️ Work Name       | 📄 Title / Description                                    | 🔗 Link / Preview |
+|--------------------|-----------------------------------------------------------|------------------|
+| **Personal AI ChatBot** | This is a personal AI Chatbot like Chatgpt made by Srajan Jain | [Preview](https://thesrajanjain.github.io/Personal-AI-ChatBot/) |
+| **Junior AI Assitant**  | This is a speaking AI Assistant made with python, although it is incomplete,it works preety fine! | [GitHub](https://github.com/TheSrajanJain/Junior-AI) |
+| **PortFolio**  | My Portfolio! | [GitHub](https://thesrajanjain.github.io/Portfolio/) |
+
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSrajanJain&theme=react-dark&area=true&custom_title=My%20Activity%20Graph" alt="Activity Graph" />
