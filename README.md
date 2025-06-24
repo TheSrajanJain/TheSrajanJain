@@ -44,7 +44,7 @@
 | 🛠️ Work Name       | 📄 Title / Description                                    | 🔗 Link / Preview |
 |--------------------|-----------------------------------------------------------|------------------|
 | **Personal AI ChatBot** | This is a personal AI Chatbot like Chatgpt made by Srajan Jain | [Preview](https://thesrajanjain.github.io/Personal-AI-ChatBot/) |
-| **Junior AI Assitant**  | This is a speaking AI Assistant made with python, although it is incomplete,it works preety fine! | [GitHub](https://github.com/TheSrajanJain/Junior-AI) |
+| **Junior AI Assitant**  | This is a speaking AI Assistant made with python, although it is incomplete, it works preety fine! | [GitHub](https://github.com/TheSrajanJain/Junior-AI) |
 | **PortFolio**  | My Portfolio! | [Preview](https://thesrajanjain.github.io/Portfolio/) |
 
 ---
