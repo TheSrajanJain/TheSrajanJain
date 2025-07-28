@@ -38,6 +38,7 @@
 | 🚀 Project | 💡 Description | 🔗 Link |
 |-----------|----------------|--------|
 | **Java By Srajan Jain** | Beginner-friendly Java programming concepts and problem-solving. | [GitHub Repo](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
+| **Python Programming** | Beginner to Advanced Python programming projrcts and codes. | [GitHub Repo](https://github.com/TheSrajanJain/Python-Programming) |
 | **C Programming By Srajan Jain** | Hands-on C programming with real examples and logic building. | [GitHub Repo](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
 | **HTML and CSS by Srajan Jain** | Aesthetic frontend designs using HTML and CSS. | [GitHub Repo](https://github.com/TheSrajanJain/HTML-and-CSS-by-Srajan-Jain) |
 | **Cpp Programming by Srajan Jain** | C++ and OOP-focused codes for beginners and intermediates. | [GitHub Repo](https://github.com/TheSrajanJain/Cpp-Programming-by-Srajan-Jain) |
