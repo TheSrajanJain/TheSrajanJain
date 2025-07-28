@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Featured Repositories
 
 | 🚀 Project | 💡 Description | 🔗 Link |
 |-----------|----------------|--------|
@@ -46,7 +46,7 @@
 
 ---
 
-## 📁 Works
+## 📁 Major Works
 
 | 🛠️ Work Name       | 📄 Title / Description                                    | 🔗 Link / Preview |
 |--------------------|-----------------------------------------------------------|------------------|
