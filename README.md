@@ -1,212 +1,155 @@
-<h1 align="center">✨ Srajan Jain</h1>
-
-<p align="center">
-  🚀 Developer | Coder | UI Enthusiast from 🇮🇳 India <br/>
-  💼 Backend • Frontend • AI Integration Aficionado
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Srajan+Jain+%F0%9F%92%BB+Developer+from+India;Backend+%7C+Frontend+%7C+AI+Integration+Enthusiast;Building+Smarter+Projects+Every+Day+%F0%9F%92%AA"
-    alt="Typing Animation"
-/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices;DSA+%7C+Problem+Solver;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Code Animation"/>
-</p>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&startDelay=7000&lines=Let's+Build+Something+Amazing+Together!;Join+Me+on+This+Journey+of+Innovation!"
-    alt="Delayed Typing Animation"
-/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheSrajanJain&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## 🛠️ Featured Repositories
-
-| 🚀 Project | 💡 Description | 🔗 Link |
-|-----------|----------------|--------|
-| **Java By Srajan Jain** | Beginner-friendly Java programming concepts and problem-solving. | [GitHub Repo](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
-| **Python Programming** | Beginner to Advanced Python programming projrcts and codes. | [GitHub Repo](https://github.com/TheSrajanJain/Python-Programming) |
-| **C Programming By Srajan Jain** | Hands-on C programming with real examples and logic building. | [GitHub Repo](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
-| **HTML and CSS by Srajan Jain** | Aesthetic frontend designs using HTML and CSS. | [GitHub Repo](https://github.com/TheSrajanJain/HTML-and-CSS-by-Srajan-Jain) |
-| **Cpp Programming by Srajan Jain** | C++ and OOP-focused codes for beginners and intermediates. | [GitHub Repo](https://github.com/TheSrajanJain/Cpp-Programming-by-Srajan-Jain) |
-| **MySQL Database** | This Repo is provided with SQL notes, worksheets and cheatsheets! | [GitHub Repo](https://github.com/TheSrajanJain/MySQL-Database) |
-
----
-
-## 📁 Major Works
-
-| 🛠️ Work Name       | 📄 Title / Description                                    | 🔗 Link / Preview |
-|--------------------|-----------------------------------------------------------|------------------|
-| **Personal AI ChatBot** | This is a personal AI Chatbot like Chatgpt made by Srajan Jain | [Preview](https://thesrajanjain.github.io/Personal-AI-ChatBot/) |
-| **Junior AI Assitant**  | This is a speaking AI Assistant made with python, although it is incomplete, it works preety fine! | [GitHub](https://github.com/TheSrajanJain/Junior-AI) |
-| **PortFolio**  | My Portfolio! | [Preview](https://thesrajanjain.github.io/Portfolio/) |
-
----
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSrajanJain&theme=react-dark&area=true&custom_title=My%20Activity%20Graph" alt="Activity Graph" />
+
+# 👋 Hey, I'm Srajan Jain
+
+### Developer • Problem Solver • AI & App Builder
+
+**Turning ideas into useful software — one project at a time.** 🇮🇳
+
+<p>
+  <a href="https://github.com/TheSrajanJain">
+    <img src="https://img.shields.io/badge/GitHub-TheSrajanJain-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+  </a>
+  <a href="https://thesrajanjain.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:thesrajanjain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+projects+that+solve+problems;Exploring+AI+and+automation;Learning%2C+building%2C+improving;Code.+Test.+Debug.+Repeat." alt="Typing animation">
+
+<img src="https://komarev.com/ghpvc/?username=TheSrajanJain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+
 </div>
 
 ---
 
-## 📘 About Me
+## 🧑‍💻 About Me
 
-Hi there! I'm **Srajan Jain**, a self-driven developer from 🇮🇳 passionate about building things that matter—be it web apps, AI tools, or backend systems. I love writing clean code and making life easier through logic and creativity.
+Hi! I'm **Srajan**, a developer from India who enjoys programming, building practical tools, and exploring how AI can make software more useful.
 
-- 🔭 **Currently Working On**: Personal AI Assistant `Junior`
-- 🌱 **Learning**: Java • Advanced Python • API Integration
-- 💬 **Ask Me About**: C • C++ • Java • HTML/CSS • AI Concepts
-- 💡 **Fun Fact**: I believe every bug teaches something new. Debugging is learning in disguise!
+I like taking an idea from a rough concept to a working project, learning by experimenting, and improving my code as I go.
 
----
-
-## ⚙️ Tech Stack
-
-| Category              | Tools & Technologies                                                                                                                                         |
-|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🖼️ **Frontend**        | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" height="30" />                                                        |
-| 🧠 **Backend**         | <img src="https://skillicons.dev/icons?i=java,python,nodejs,spring,django,express" height="30" />                                                           |
-| 🧰 **Frameworks**      | <img src="https://skillicons.dev/icons?i=spring,flask,nextjs,redux" height="30" />                                                                          |
-| 🗄️ **Databases**       | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" height="30" />                                                           |
-| 🚀 **DevOps & Cloud**  | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify" height="30" />                                                               |
-| 🧪 **Testing**         | <img src="https://skillicons.dev/icons?i=jest,pytest" height="30" />                                                                                         |
-| 🧑‍💻 **IDEs & Editors**  | <img src="https://skillicons.dev/icons?i=vscode,idea,replit,codepen" height="30" />                                                                         |
-| 🧪 **Dev Tools**       | <img src="https://skillicons.dev/icons?i=git,github,postman,linux,terminal" height="30" />                                                                  |
-| 🎨 **Design / UI**     | <img src="https://skillicons.dev/icons?i=figma,canva" height="30" />                                                                                         |
-| 🧠 **Currently Exploring** | <img src="https://skillicons.dev/icons?i=ts,graphql,threejs,grafana" height="30" />                                                                    |
+- 🤖 **Current focus:** Personal AI assistant **Junior** and AI-powered applications.
+- 🌱 **Learning:** Python, API integration, and stronger software-development fundamentals.
+- 🧰 **Interested in:** Automation, web applications, developer tools, and business utilities.
+- 🧠 **My approach:** Build things, test them, learn from bugs, and keep improving.
+- 📌 **Explore my work:** [Repositories](https://github.com/TheSrajanJain?tab=repositories) · [Portfolio](https://thesrajanjain.github.io/Portfolio/)
 
 ---
 
-## 🔧 Tools & IDEs I Use
+## 🚀 Featured Projects
 
-- 🖥️ **VS Code**, IntelliJ IDEA, Turbo C++
-- 🧪 Postman, GitHub CLI, Replit
-- 🎨 Figma, Canva (for UI mockups)
-- 🔧 Terminal, Git Bash, Linux (Ubuntu)
+| Project | What it is | |
+|---|---|---|
+| 🤖 **Personal AI ChatBot** | A personal chatbot project inspired by conversational AI. | [Live demo ↗](https://thesrajanjain.github.io/Personal-AI-ChatBot/) |
+| 🎙️ **Junior AI Assistant** | A Python-based voice-assistant project that I'm developing and improving. | [Source code ↗](https://github.com/TheSrajanJain/Junior-AI) |
+| 🌐 **My Portfolio** | A home for my projects and developer profile. | [Visit site ↗](https://thesrajanjain.github.io/Portfolio/) |
+| ☕ **Java By Srajan Jain** | Java examples and beginner-friendly programming practice. | [Explore ↗](https://github.com/TheSrajanJain/Java-By-Srajan-Jain) |
+| 🐍 **Python Programming** | Python code, exercises, and programming projects. | [Explore ↗](https://github.com/TheSrajanJain/Python-Programming) |
+| ⚙️ **C Programming By Srajan Jain** | C programming examples and logic-building practice. | [Explore ↗](https://github.com/TheSrajanJain/C-Programming-By-Srajan-Jain) |
+| 🧩 **C++ Programming** | C++ examples and object-oriented programming practice. | [Explore ↗](https://github.com/TheSrajanJain/Cpp-Programming-by-Srajan-Jain) |
+| 🎨 **HTML & CSS** | Frontend experiments and web-design practice. | [Explore ↗](https://github.com/TheSrajanJain/HTML-and-CSS-by-Srajan-Jain) |
+| 🗄️ **MySQL Database** | SQL notes, worksheets, and cheat sheets. | [Explore ↗](https://github.com/TheSrajanJain/MySQL-Database) |
+
+> Have an idea, suggestion, or improvement for one of these projects? Feel free to open an issue or reach out.
 
 ---
 
-## 📚 Recommended Resources
+## 🛠️ Technologies & Tools
 
-Here are a few resources that helped me on my journey:
+### Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql" alt="Python, Java, C, C++, HTML, CSS, JavaScript and MySQL">
+</p>
+
+### Tools I use or explore
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman,figma,linux" alt="VS Code, IntelliJ IDEA, Git, GitHub, Postman, Figma and Linux">
+</p>
+
+**Areas I'm exploring:** AI integrations · APIs · Backend development · Databases · UI design · Automation
+
+*Technology icons are a quick overview of my coding interests, tools, and learning areas—not a claim of professional mastery in every technology.*
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheSrajanJain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSrajanJain&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSrajanJain&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSrajanJain&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
+</div>
+
+---
+
+## 🧭 What I'm Working Toward
+
+- [ ] Improve **Junior**, my Python AI assistant.
+- [ ] Build more useful applications with clean, maintainable code.
+- [ ] Get better at API integration and working with data.
+- [ ] Strengthen problem-solving and software-design fundamentals.
+- [ ] Publish projects with clear documentation and setup instructions.
+- [ ] Learn from other developers and contribute to open-source projects.
+
+*This list is a work in progress; I'll update it as my priorities change.*
+
+---
+
+## 📚 Learning Resources
+
+A few useful places for documentation, practice, and new ideas:
+
+- [Python Documentation](https://docs.python.org/3/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Java Documentation](https://docs.oracle.com/en/java/)
+- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [OpenAI Docs](https://platform.openai.com/docs)
-- [Java Programming by Srajan Jain](https://github.com/TheSrajanJain/Java-By-Srajan-Jain)
-- [w3schools](https://www.w3schools.com/)
 - [GitHub Docs](https://docs.github.com/)
+- [OpenAI Platform Documentation](https://platform.openai.com/docs)
 
 ---
 
-## 📅 My Weekly Coding Routine
+## 🤝 Let's Connect
 
-- 🧠 **Monday – Friday**:  
-  `3-4 hours` – Practice + Projects + Debugging  
-- 🔬 **Saturday**:  
-  `Project Development` + Learning New Tools  
-- 🌱 **Sunday**:  
-  Code Review + Open-source contribution + Learning Recap
-
----
-
-## 📊 GitHub Stats
+I'm happy to connect with fellow developers, exchange ideas, discuss projects, and learn from the community.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSrajanJain&show_icons=true&theme=radical&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheSrajanJain&theme=radical&hide_border=false" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSrajanJain&layout=compact&theme=radical&hide_border=false" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheSrajanJain&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- ✅ Created open-source content for developers & learners.
-- ✨ Contributor to real-world scalable projects.
-- 🔥 Active part of the GitHub coding community.
-- 🤖 Building a fully AI-powered voice assistant in Python.
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark x3"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire x4"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck x3"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
-</p>
-
----
-
-## 🎯 Goals for 2025
-
-- 🚀 Launch "Junior" AI Assistant v1.0  
-- 🎓 Master Data Structures, OOP, and AI Models  
-- 💻 Contribute to impactful open-source projects  
-- 🧠 Complete 40+ C++ Projects & Host Tutorials  
-
----
-
-## 🌐 Web Presence
-
-- 🌍 **Portfolio**: [`@My_Portfolio`](https://thesrajanjain.github.io/Portfolio/)
-- 📺 **YouTube (Tutorials & Devlogs)**: [Coming Soon]
-- 📸 **Instagram**: [`@The_SrajanJain`](https://www.instagram.com/the_srajanjain/)
-
----
-
-## 💬 Testimonials (Optional Placeholder)
-
-> “Srajan is a passionate coder and a fast learner. His AI assistant project is a testament to his dedication.”  
-> — *Mentor / Teacher / Collaborator*
-
-> “He has helped me debug and refactor my code countless times. A real team player!”  
-> — *Peer / Student*
-
----
-
-## 📫 Connect With Me 
-<p align="center"> 
-  <a href="mailto:thesrajanjain@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> 
   <a href="https://github.com/TheSrajanJain">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a> 
-  <a href="https://github.com/TheSrajanJain?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20More%20Projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://thesrajanjain.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.instagram.com/the_srajanjain/">
+    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:thesrajanjain@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-## 📜 License © 2025 **Srajan Jain** — 
-Built with 💙, ☕ and infinite curiosity. 
-Sharing encouraged with credit. All rights reserved. 
+<div align="center">
 
---- 
+### 💡 Build with curiosity. Improve with consistency.
 
-<p align="center"> <img src="https://github.com/TheSrajanJain/TheSrajanJain/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+*Thanks for stopping by! ⭐ If something here helps or interests you, check out the repositories.*
 
----
+<sub>© Srajan Jain · Made with curiosity and code.</sub>
+
+</div>
